@@ -1,0 +1,89 @@
+body {
+  padding: 20px;
+  background-image: url(https://wallpaperaccess.com/full/803470.jpg)
+}
+
+#Site-title {
+  color: #cd84f1;
+  text-align: center;
+  font-family: "comic sans MS"
+}
+
+p {
+  margin: 20px;
+}
+
+.goats {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  transform: translateX(-71px);
+}
+
+.circle-goats {
+  border-radius: 150px;
+  border: 2px black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  overflow:hidden;
+  height: 150px;
+  width: 150px;
+}
+
+.baby {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  transform: translate(-46px);
+}
+
+.circle-baby {
+  border-radius: 150px;
+  border: 2px black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  height: 150px;
+  width: 150px;
+ }
+
+.one {
+  font-family: cursive;
+  text-align: center;
+}
+
+.two {
+  font-family: cursive;
+  text-align: center;
+}
+
+.three {
+  font-family: cursive;
+  text-align: center;}
+
+.four {
+  font-family: cursive;
+  text-align: center;
+}
+
+.five {
+  font-family: cursive;
+  text-align: center;
+}
+
+#end-line {
+  color: #ffcccc;
+  text-align: center;
+  font-family: "comic sans MS"
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #18dcff;
+  border-width: 12px;
+  width: 10%;
+}
